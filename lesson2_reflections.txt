@@ -1,0 +1,8 @@
+Q1 - What happens when you initialize a repository? Why do you need to do it?
+You set the directory to use git. It is used when control version files is needed.
+
+Q2 - How is the staging area different from the working directory and the repository? What value do you think it offers?
+Only the files within the stating area will be included in the repository when commit. It allows us to select which files we want to keep a history using git.
+
+Q3 - How can you use the staging area to make sure you have one commit per logical change?
+I can check the changes in my working directory and compare with the staging area, which is the same content as the most updated file from the newest commit
