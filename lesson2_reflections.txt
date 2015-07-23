@@ -6,3 +6,6 @@ Only the files within the stating area will be included in the repository when c
 
 Q3 - How can you use the staging area to make sure you have one commit per logical change?
 I can check the changes in my working directory and compare with the staging area, which is the same content as the most updated file from the newest commit
+
+Q4 - What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When some experimental code is made, or when adding simultaneous features in the same time.
