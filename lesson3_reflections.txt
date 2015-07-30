@@ -5,3 +5,9 @@ Also, to keep every file centralized in one place that several developers are wo
 Q2 - Why might you want to always pull changes manually rather than havin 
 Git automatically stay up-to-date with your remote repository?
 So I can choose the files I want to become avaliable publicly.
+
+Q3 - Describe the differences between forks, clones, and branches. When would
+you use one instead of another?
+Fork differs from the others because it is a feature only Github related.
+Clones is only used in our local machine to copy data from a repository in Github.
+Branch is only a space where files are stored in either Github and/or locally. It could be used to separate the files you want to public, as a measure to control what will be visible to everyone.
