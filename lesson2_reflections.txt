@@ -9,3 +9,10 @@ I can check the changes in my working directory and compare with the staging are
 
 Q4 - What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When some experimental code is made, or when adding simultaneous features in the same time.
+
+Q5 - How do the diagrams help you visualize the branch structure?
+It explained the track of git log and is easy to notice that if we made a commit in a previous checkout, this commit will not be reacheable by git log. In this case, it is recomended to create a new branch in order to keep the changes in the new commit.
+
+Q6 - What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging branches means to unify it in a way to add specific changes that was in a different line of develop, into the main program code, as a result adding new features and expanding the program. 
+The diagram representation was made in order to easy undestand how merging works, and how is the behavior of each branches's commit in the final, after the merge. 
