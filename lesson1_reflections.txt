@@ -1,0 +1,26 @@
+Q1 - How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It helps showing me the different characters on each line between the files related to each version of my project.
+
+Q2 - How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+I can verify who made what changes in the project, so it is possible to audit, for example. It is possible to see the progression of the project. Also if something that was working in the previous version, but not now anymore,
+the history can help in indentify what where those changes that made the function to not work properly.
+
+Q3 - What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+The advantage to manually commit is that is up to you to decide whenever you want to, but in the same way this can be a problem if you doesn't pay attention or just forget to do commits in the best way possible.
+
+Although you can control the very details of your project doing manual commits, it is necessary to use it correctly to not create big changes and few commits, which will complicate when it tries to compare the old version with the new one, and the inverse.
+
+Q4 - Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+While dealing with multiple files in every commit, it allows the developer to not worry about saving a version of each modificated file. 
+In other hand, an excessive space usage problem can happen, since each file has a copy every commit, even if it is not modified.
+That said, others version control systems use the contrary idea, and it is up to the developer to manually control the necessary files to be copied.
+
+Q5 - How can you use the commands git log and git diff to view the 
+history of files?
+Using git log it's possible to check information of each commit, like the ID and comments, while the git diff only compare two commits and its difference between each other.
+
+Q6 - How might using version control make you more confident to make 
+changes that could break something? 
+Because it is easy to undo the 
+changes and check the codes for further investigation.
