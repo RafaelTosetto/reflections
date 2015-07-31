@@ -11,3 +11,7 @@ you use one instead of another?
 Fork differs from the others because it is a feature only Github related.
 Clones is only used in our local machine to copy data from a repository in Github.
 Branch is only a space where files are stored in either Github and/or locally. It could be used to separate the files you want to public, as a measure to control what will be visible to everyone.
+
+Q4 - What is the benefit of having a copy of the last known state of the
+ remote stored locally?
+It enables to work offline with updated content from the repository.
