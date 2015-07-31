@@ -15,3 +15,11 @@ Branch is only a space where files are stored in either Github and/or locally. I
 Q4 - What is the benefit of having a copy of the last known state of the
  remote stored locally?
 It enables to work offline with updated content from the repository.
+
+Q5 - How would you collaborate without Git or GitHub? What would be easier 
+and what would be harder?
+Probably I would use Dropbox, since I use it in the past to work under my article for college with my friends. 
+Also, those are information that couldn't become public. Thus, is easier to not use Git if you pretend to share private files online or if you are
+dealing with coworkers who dont know how to use Git.
+The harder depends the kind of files you are dealing with. For instance, if I were supposed to work with scripts or programming language, I would definitelly use Git and teach anyone who shall colloborate with me, even
+ if the person never used Git before.
